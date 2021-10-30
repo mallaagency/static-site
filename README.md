@@ -17,7 +17,7 @@
 - We always keep learning trending & innovative technologies/skills.
 - We will make your great idea live.
 - We work full time and prefer long-term collaboration.
-- You can [send mail](mailto:info@malla.agency) or contact me via [skype](https://join.skype.com/invite/fm0GRG34ND1D)
+- You can [send mail](mailto:info@malla.agency) 
 
 ### Our Skills 
 ✔ .NET (.NET Core, Xamarin, Blazor, Windows)  
